@@ -10,6 +10,6 @@ I am Luis Otávio do Brazil, and I work as a web developer. I'm passionate about
 - JavaScript
 - Node js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis291099)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis291099&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luis291099&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luis291099&show_icons=true&theme=tokyonight)  
