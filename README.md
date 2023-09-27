@@ -2,9 +2,9 @@
 I'm Luis Otávio from Brazil, and I work as a web developer. I'm passionate about learning new technologies and proposing computational solutions for everyday problems. Some of the technologies I worked on are Angular, React, Django, Node js and Spring Framework
 
 <div>
-  <a href="https://github.com/luis291099">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis291099&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis291099&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/luisotavioand">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisotavioand&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisotavioand&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 ### Skills and Experience
